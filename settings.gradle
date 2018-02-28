@@ -1,0 +1,9 @@
+rootProject.name = 'contacts'
+
+include 'common'
+include 'common-jvm'
+include 'common-js'
+include 'common-native'
+include 'android'
+include 'web'
+
